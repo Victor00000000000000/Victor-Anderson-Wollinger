@@ -1,0 +1,3 @@
+- Hi, I’m Victor Anderson Wollinger
+- I’m interested in Programming, Math, Physics, Engineering, Chemistry, and others
+- I’m currently studying Control and Automation Engineering 
